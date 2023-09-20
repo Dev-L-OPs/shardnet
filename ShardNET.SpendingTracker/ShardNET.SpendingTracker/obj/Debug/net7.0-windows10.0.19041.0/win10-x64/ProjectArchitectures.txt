@@ -1,0 +1,1 @@
+C:\Users\devel\Documents\GitHub\shardnet\ShardNET.SpendingTracker\ShardNET.SpendingTracker\ShardNET.SpendingTracker.csproj;x64
